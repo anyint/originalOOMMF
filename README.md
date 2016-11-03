@@ -3,16 +3,16 @@ original edition copy from http://math.nist.gov/oommf/
 
 
 ###简单介绍OOMMF在linux中的安装
-*第一步 ：下载软件包
+1. 下载软件包
 http://math.nist.gov/oommf/dist/oommf12a5bis_20120928.tar.gz
                 依赖的库
-*第二步 设置 tcl/tk的环境变量,
+2. 设置 tcl/tk的环境变量,
 下载安装 ActiveTcltk
 http://downloads.activestate.com/ActiveTcl/releases/
 在.bashrc文件中写入Active 路径
 并source生效
 
-*第三步：检查系统环境
+3. 检查系统环境
 ```bsh
 cd .../path/to/oommf
 ```
