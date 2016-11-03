@@ -3,6 +3,7 @@ original edition copy from http://math.nist.gov/oommf/
 
 
 ###简单介绍OOMMF在linux中的安装
+#### 环境配置
 1. 下载软件包
 http://math.nist.gov/oommf/dist/oommf12a5bis_20120928.tar.gz
                 依赖的库
@@ -49,12 +50,12 @@ Temp file directory: 	/tmp
 ```
 如有缺少组件，如 C++   tcl tk 必须补充
 
-4. 编译安装
+#### 编译安装
 ```css
 tclsh oommf.tcl pimake
 ```
 
-5. 基本运行，进入所在文件夹
+### 基本运行，进入所在文件夹
 ```css
 tclsh oommf.tcl
 ```
