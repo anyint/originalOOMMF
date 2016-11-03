@@ -55,7 +55,7 @@ Temp file directory: 	/tmp
 tclsh oommf.tcl pimake
 ```
 
-### 基本运行，进入所在文件夹
+#### 基本运行，进入所在文件夹
 ```css
 tclsh oommf.tcl
 ```
