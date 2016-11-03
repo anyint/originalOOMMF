@@ -2,7 +2,7 @@
 original edition copy from http://math.nist.gov/oommf/
 
 
-简单介绍OOMMF在linux中的安装
+###简单介绍OOMMF在linux中的安装
 第一步 ：下载软件包
 http://math.nist.gov/oommf/dist/oommf12a5bis_20120928.tar.gz
                 依赖的库
@@ -13,7 +13,7 @@ http://downloads.activestate.com/ActiveTcl/releases/
 并source生效
 
 第三步：检查系统环境
-```
+```bsh
 cd .../path/to/oommf
 ```
 
@@ -23,7 +23,7 @@ cd .../path/to/oommf
  tclsh  oommf.tcl +platform
 ```
 会显示检查 的 如下面类似系统信息： 
-```css
+```zsh
 Platform Name:		linux-x86_64
 Tcl name for OS:	Linux 3.10.0-123.20.1.el7.x86_64
 C++ compiler:   	/usr/bin/g++ 
