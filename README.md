@@ -51,12 +51,12 @@ Temp file directory: 	/tmp
 如有缺少组件，如 C++   tcl tk 必须补充
 
 
-第三步：编译安装
+4. 编译安装
 ```css
 tclsh oommf.tcl pimake
 ```
 
-第五步：基本运行，进入所在文件夹
+5. 基本运行，进入所在文件夹
 ```css
 tclsh oommf.tcl
 ```
