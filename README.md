@@ -22,7 +22,7 @@ cd .../path/to/oommf
 ```sh
  tclsh  oommf.tcl +platform
 ```
-会显示检查 的 如下面类似系统信息： 
+会显示检查 的 如下面类似系统信息  
 ```zsh
 Platform Name:		linux-x86_64
 Tcl name for OS:	Linux 3.10.0-123.20.1.el7.x86_64
