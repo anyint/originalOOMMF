@@ -47,9 +47,7 @@ OOMMF threads:         	Yes
 OOMMF API index:       	20120928
 Temp file directory: 	/tmp
 ```
-
 如有缺少组件，如 C++   tcl tk 必须补充
-
 
 4. 编译安装
 ```css
